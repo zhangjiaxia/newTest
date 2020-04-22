@@ -1,0 +1,1 @@
+<block wx:if="{{dynamicDesc}}"><view><view><rich-text nodes="{{dynamicDesc.banner_detail}}"></rich-text></view></view></block>
